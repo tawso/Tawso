@@ -10,7 +10,7 @@
 
 ---
 
-## About Me
+<h2 align="center"> About Me</h2> 
 
 - Building mods for **Minecraft Fabric / Forge / NeoForge**
 - Working mainly with **Java** and **Kotlin**
@@ -37,7 +37,7 @@
 
 ---
 
-## Current Focus
+<h2 align="center"> Current Focus</h2>  
 
 - Minecraft modding with **Fabric / Forge / NeoForge**
 - Performance-focused systems and UI tools
@@ -45,7 +45,7 @@
 
 ---
 
-## Featured Projects
+<h2 align="center"> Featured Projects</h2> 
 
 - **Minecraft PvP Utility Mod** — combat and utility mechanics
 - **Custom Systems Tooling** — practical systems and gameplay features
@@ -53,7 +53,7 @@
 
 ---
 
-## GitHub Stats
+<h2 align="center"> GitHub Stats</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=tawso&theme=tokyonight&hide_border=true&background=0D1117" height="165" />
@@ -87,5 +87,5 @@
 ---
 
 <p align="center">
-  <i>Code. Systems. Optimization.</i>
+  <i>Code. System. Optimization.</i>
 </p>
