@@ -55,7 +55,7 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tawso&show_icons=true&theme=github_dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=tawso&theme=tokyonight&hide_border=true&background=0D1117" height="165" />
