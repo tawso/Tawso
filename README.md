@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Minecraft+Modding;Android+Development;Java+%26+Kotlin;Building+tools+and+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Minecraft+Modding;Java+%26+Kotlin;Building+tools+and+systems" alt="Typing SVG" />
 </p>
 
 ---
