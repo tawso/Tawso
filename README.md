@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Minecraft+Modding;Java+%26+Kotlin;Building+tools+and+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Minecraft+Modding;Java+%26+Kotlin;Building+tools+and+systems" alt="Typing SVG" />
 </p>
 
 ---
@@ -14,7 +14,8 @@
 
 - Building mods for **Minecraft Fabric / Forge / NeoForge**
 - Working mainly with **Java** and **Kotlin**
-- Focused on **performance**, **UI**, and practical tools
+- Focused on **performance**, **UI**, and practical development
+- Exploring custom systems, tools, and gameplay mechanics
 
 ---
 
@@ -36,12 +37,19 @@
 
 ---
 
-## What I Build
+## Current Focus
 
-- Minecraft mods
-- PvP and utility mechanics
-- Launchers and custom tools
-- UI systems and performance-focused features
+- Minecraft modding with **Fabric / Forge / NeoForge**
+- Performance-focused systems and UI tools
+- Custom mechanics and utility features
+
+---
+
+## Featured Projects
+
+- **Minecraft PvP Utility Mod** — combat and utility mechanics
+- **Custom Systems Tooling** — practical systems and gameplay features
+- **Launcher UI Project** — custom launcher interface and tools
 
 ---
 
