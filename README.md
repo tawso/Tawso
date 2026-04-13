@@ -55,8 +55,10 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tawso&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tawso&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tawso&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawso&layout=compact&theme=tokyonight" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=tawso&theme=tokyonight&hide_border=true&background=0D1117" height="165" />
