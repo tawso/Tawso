@@ -83,6 +83,7 @@
 
 - GitHub: [@tawso](https://github.com/tawso)
 - Telegram: [@tawsor](https://t.me/tawsor)
+- Email: tawso.dev@gmail.com
 
 ---
 
