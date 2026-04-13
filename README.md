@@ -1,7 +1,7 @@
 <h1 align="center">Tawso</h1>
 
 <p align="center">
-  Java • Kotlin • Minecraft Modding • Android Development
+  Java • Kotlin • Minecraft Modding
 </p>
 
 <p align="center">
@@ -13,7 +13,6 @@
 ## About Me
 
 - Building mods for **Minecraft Fabric / Forge / NeoForge**
-- Developing **Android tools**, overlays, and custom systems
 - Working mainly with **Java** and **Kotlin**
 - Focused on **performance**, **UI**, and practical tools
 
@@ -29,7 +28,6 @@
 ![Fabric](https://img.shields.io/badge/Fabric-0D1117?style=for-the-badge&logoColor=white)
 ![Forge](https://img.shields.io/badge/Forge-0D1117?style=for-the-badge&logoColor=white)
 ![NeoForge](https://img.shields.io/badge/NeoForge-0D1117?style=for-the-badge&logoColor=white)
-![Android](https://img.shields.io/badge/Android-0D1117?style=for-the-badge&logo=android&logoColor=3DDC84)
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
 
 ### Tools
@@ -42,7 +40,6 @@
 
 - Minecraft mods
 - PvP and utility mechanics
-- Android overlay apps
 - Launchers and custom tools
 - UI systems and performance-focused features
 
