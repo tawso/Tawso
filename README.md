@@ -1,39 +1,43 @@
 <h1 align="center">Tawso</h1>
 
 <p align="center">
-  Java • Kotlin • Minecraft Modding
+  Java • Minecraft Modding
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Minecraft+Modding;Java+%26+Kotlin;Building+tools+and+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=E82222&center=true&vCenter=true&width=700&lines=Minecraft+Modding;Java;Building+tools+and+systems" alt="Typing SVG" />
 </p>
 
 ---
 
 <h2 align="center"> About Me</h2> 
 
-- Building mods for **Minecraft Fabric / Forge / NeoForge**
-- Working mainly with **Java** and **Kotlin**
+- Building mods for **Minecraft Fabric / Forge**
+- Working mainly with **Java**
 - Focused on **performance**, **UI**, and practical development
 - Exploring custom systems, tools, and gameplay mechanics
 
 ---
 
-## Stack
+<h2 align="center">Stack</h2> 
 
-### Languages
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=F89820)
-![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
+<h2 align="center">Languages</h2>  
+<p align="center">
+  <img src="assets/java-svgrepo-com.svg" alt="Java" height=50/>
+</p>
 
-### Modding & Development
-![Fabric](https://img.shields.io/badge/Fabric-0D1117?style=for-the-badge&logoColor=white)
-![Forge](https://img.shields.io/badge/Forge-0D1117?style=for-the-badge&logoColor=white)
-![NeoForge](https://img.shields.io/badge/NeoForge-0D1117?style=for-the-badge&logoColor=white)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+<h2 align="center">Modding & Development</h2> 
+
+<p align="center">
+  <img src="assets/Minecraft-Fabric-Logo.png" alt="Fabric" height="50" />
+  <img src="assets/Forge.png" alt="Forge" height="50" />
+</p>
+
 
 ### Tools
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-0D1117?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
 
 ---
 
@@ -47,7 +51,7 @@
 
 <h2 align="center"> Featured Projects</h2> 
 
-- **Minecraft PvP Utility Mod** — combat and utility mechanics
+- **Minecraft Utility Mod** — utility mechanics
 - **Custom Systems Tooling** — practical systems and gameplay features
 - **Launcher UI Project** — custom launcher interface and tools
 
