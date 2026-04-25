@@ -26,7 +26,7 @@ My main goal is to become a strong backend developer who understands not only fr
 ## Languages I’m Learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,go,rust,kotlin" />
+  <img src="https://skillicons.dev/icons?i=java,go,rust,kotlin,python" />
 </p>
 
 ---
@@ -34,7 +34,7 @@ My main goal is to become a strong backend developer who understands not only fr
 ## Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=idea,vscode,git,github,linux,docker,postgres" />
+  <img src="https://skillicons.dev/icons?i=idea,pycharm,visualstudio,vscode,git,github,linux,docker,postgres" />
 </p>
 
 ---
